@@ -1,0 +1,36 @@
+
+   [ {
+    "prizename": "First Prize",
+    "noofprize": "1",
+    "pricepercent": "30% of Total Prize Money",
+    "Description": "If the winning number is sold more than one ticket, then the prize money will be distributed equally to all the winners"
+},
+
+{
+    "prizename": "Second Prize",
+    "noofprize": "1",
+    "pricepercent": "20% of Total Prize Money",
+    "Description": "If the winning number is sold more than one ticket, then the prize money will be distributed equally to all the winners"
+},
+
+{
+    "prizename": "Third Prize",
+    "noofprize": "1",
+    "pricepercent": "10% of Total Prize Money",
+    "Description": "If the winning number is sold more than one ticket, then the prize money will be distributed equally to all the winners"
+},
+{
+    "prizename": "Fourth Prizes",
+    "noofprize": "10",
+    "pricepercent": "20% of Total Prize Money",
+    "Description": "There are 10 Winning numbers. Scenario 1: if only few winning numbers were sold  out of 10 winning numbers, then the prize money will be distributed to the winners. Note:The number of tickets purchased of each winning numbers are also play a part in calculation"
+},
+
+{
+    "prizename": "Consolation Prizes",
+    "noofprize": "10",
+    "pricepercent": "10% of Total Prize Money",
+    "Description": "There are 10 Winning numbers. Scenario 1: if only few winning numbers were sold  out of 10 winning numbers, then the prize money will be distributed to the winners. Note:The number of tickets purchased of each winning numbers are also play a part in calculation"
+}
+
+]
